@@ -15,7 +15,18 @@ This project is a Clothing Store Management System built using Python, PySimpleG
   4) **Customer Details:** Employees can view customer details and their purchase history.
 
 ## Run this project
-  Please refer to Instructions.txt for running this project.
+  To run this project first of all run requirements.py with internet turned on to ensure that all the required modules are installed in your desktop.
+Then run login.py. If you are running this programme for the first time you might be prompted to a GUI window asking you to enter correct password.
+The creation of database might take some time depending on the specifications of your computer, kindly be patient in this stage.
+If all goes well you will be taken to the login screen of our project.
+
+Login Screen has two parts: One for customers and one for employees. Select the appropriate one.
+In order to use employee option you need to enter credentials. For the demonstrations of this project you can enter the following credentials:-
+Employee ID = 4
+User Name = admin
+Password = projectroot
+
+In customer section you will be able to create your account and then use it to login as customer later.
 
 ## Screenshots
 
